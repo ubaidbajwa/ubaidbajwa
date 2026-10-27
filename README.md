@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ubaid%20Ullah&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20LLM%20Apps%2C%20RAG%20%26%20AI%20Agents%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ubaid%20Ullah&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20LLM%20Apps%20%7C%20RAG%20%7C%20AI%20Agents&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=650&height=100&lines=🤖+Software+Engineer+→+AI+Engineer;🧠+Building+LLM+Apps%2C+RAG+%26+AI+Agents;⚙️+Full-Stack%3A+MERN+%2B+ASP.NET+Core" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Software+Engineer+to+AI+Engineer;Building+LLM+Apps+RAG+and+AI+Agents;Full+Stack+MERN+and+ASP.NET+Core" alt="Software Engineer to AI Engineer | LLM Apps, RAG and AI Agents" />
 </a>
 
 <br/>
